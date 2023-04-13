@@ -1,1 +1,5 @@
-# realestate-app-client
+# Real Estate App Client
+
+```
+npm run dev
+```
